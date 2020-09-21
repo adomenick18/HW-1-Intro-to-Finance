@@ -2,91 +2,93 @@
 
 ## Overview and Origin
 
-Name of company
+*Name of company*
 ***
 Axoni
 
-When was the company incorporated?
+*When was the company incorporated?*
 ***
 Schvey Inc was incorporated in 2013 and Axoni was trademarked in 2017
 
-Who are the founders of the company?
+*Who are the founders of the company?*
 ***
 Brothers Greg Schvey, CEO and Jeff Schvey, CTO founded the company.
 
-How did the idea for the company (or project) come about?
+*How did the idea for the company (or project) come about?*
 ***
 The founders of Axoni founded TradeBlock, a platform that provides trading tools and data analytics for public blockchain assets.  Axoni was launched to bring blockchain technology to private users in the global capital markets.
 
-How is the company funded? How much funding have they received?
+*How is the company funded? How much funding have they received?*
 ***
 The company is funded through private investment.  Current total funding of $59.8MM.
 
 ## Business Activities:
 
-What specific financial problem is the company or project trying to solve?
+*What specific financial problem is the company or project trying to solve?*
 ***
 The company is trying to increase the efficiency and accuracy of trade settlements and reconciliation of trade activity between counterparties.  Currently, Axoni is partnered with the OCC to replace their existing infrastructure with distributed ledger technology.
 
-Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+*Who is the company's intended customer?  Is there any information about the market size of this set of customers?*
 ***
 Axoni's intended customer base consists solely of financial service firms. Three of the top 5 largest financial services firms in the US are customers as well as direct investors in the company; JPMorgan, Wells Fargo and Citigroup.  These companies have total assets ranging from $1.63 trillion to $2.82 trillion.  Other customers include Goldman Sachs, DTCC, OCC among others.     
 
-Which technologies are they currently using, and how are they implementing them?
+*What solution does this company offer that their competitors do not or cannot offer?*
 ***
-Axoni is developing distributed ledger technology for private institutions using their AxCore blockchain infrastructure.  
+Axoni has developed their own distributed ledger infrastructure called AxCore.  They work with customers to implement solutions on top of this infrastructure.  This distributed ledger technology is private and only useable by permissioned counterparties.
+
+*Which technologies are they currently using, and how are they implementing them?*
+***
+Axoni develops distributed ledger technology for private institutions using their AxCore blockchain infrastructure.  
 
 ## Landscape:
 
-What domain of the financial industry is the company in?
+*What domain of the financial industry is the company in?*
 ***
 The main domain of the financial industry this company resides in is Capital Markets trade clearing and settlements.
 
-What have been the major trends and innovations of this domain over the last 5-10 years?
+*What have been the major trends and innovations of this domain over the last 5-10 years?*
 ***
-The interesting thing about this company is that their has been almost no innovation within this area for the last 5-10 years.  The majority of financial services firms are still manually reconciling with eachother using emails, excel spreadsheets and phone calls.
+The interesting thing about this company is that there has been almost no innovation within this area for the last 5-10 years.  The majority of financial services firms are still manually reconciling with eachother using emails, excel spreadsheets and phone calls.
 
-
-What are the other major companies in this domain?
+*What are the other major companies in this domain?*
 ***
 The other major companies in this domain are smaller FinTech startups such as Digital Asset and R3. Digital Asset is currently replacing the Australian Securities Exchange's existing Clearing House Electronic Subregister System (CHESS) with distributed ledger techonology. R3 was started originally by a consortium of US banks but works with customers from many other industries.
 
 
 ## Results
 
-What has been the business impact of this company so far?
+*What has been the business impact of this company so far?*
 ***
 Axoni has already worked with the Depository Trust & Clearing Corporation (DTCC) to move its settlements process for derivatives to a distributed ledger technology.  Additionally, Goldman and Citi have also already cleared the first equity swap using the company's AxCore ledger.  These two developments are meaningful steps towards having distributed ledger technology become more mainstream within the financial services industry.
 
-What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+*What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?*
 ***
-Companies in this space are still in the development stage of the technology, meaning that they aren't yet profitable.  The best metric would be the number and size of customers and exchanges that the companies are partnered with.  Given the prominence of the DTCC and OCC, as well as the interest from the largest banks in the industry, Axoni is doing very well based on these metrics.
+Companies in this space are still in the development stage of the technology, meaning that they aren't yet profitable.  The best metric would be the number and size of customers and exchanges that the companies are partnered with.  Given the prominence of the DTCC and OCC, as well as the investment from the largest banks in the industry, Axoni is doing very well.
 
-How is your company performing relative to competitors in the same domain?
+*How is your company performing relative to competitors in the same domain?*
 ***
 Axoni seems to be succeeding in the US capital markets domain.  Other competitors have broadened their reach to projects either outside of the US or in other industries; such as healthcare, real estate, manufacturing etc.
 
 ## Recommendations
 
-If you were to advise the company, what products or services would you suggest they offer?
+*If you were to advise the company, what products or services would you suggest they offer?*
 ***
 My recommendation would be to build on what this company is already doing.  They could expand their engineering of and capacity to create smart contracts on top of their AxCore distributed ledger infrastructuer.  This expansion along with the hiring of employees with financial products structuring experience would allow them to almost replace banks as a middle man between borrowers and lenders.
 
-Why do you think that offering this product or service would benefit the company?
+*Why do you think that offering this product or service would benefit the company?*
 ***
 Offering this expansion of their existing product would allow them to grow exponentially and begin to cut out large banks as structurers of financial products. Many of their existing projects are working together with financial service firms to enhance the sharing of data and automate their downstream workflows. 
 
-What technologies would this additional product or service utilize?
+*What technologies would this additional product or service utilize?*
 ***
 Axoni already has the technology to write applications on top of their AxCore distributed ledger but this isn't yet a focus of their business strategy as the technology is fairly new.  The Scala programming language for example could write these smart contract applications.
 
-Why are these technologies appropriate for your solution?
+*Why are these technologies appropriate for your solution?*
 ***
 A programming language that can write smart contract applications is appropriate beccause you need the infrastructure to build these smart contracts.
 
 ```
-## Website References:
+Website References:
 https://www.finextra.com/newsarticle/35765/occ-taps-dlt-for-securities-lending-infrastructure
 https://www.crunchbase.com/organization/axoni
 https://axoni.com/press/axoni-co-founders-honored-by-goldman-sachs-for-entrepreneurship/#:~:text=New%20York%2C%20November%209%2C%202018,Summit%20in%20Santa%20Barbara%2C%20California.
