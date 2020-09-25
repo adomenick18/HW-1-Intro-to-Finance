@@ -2,13 +2,13 @@
 
 ## Overview and Origin
 ***
-*Name of company*
+*Name of company:*
 
 Axoni
 ***
 *When was the company incorporated?*
 
-Schvey Inc was incorporated in 2013 and Axoni was trademarked in 2017
+Schvey Inc was incorporated in 2013 and Axoni was trademarked in 2017.
 ***
 *Who are the founders of the company?*
 
@@ -16,21 +16,21 @@ Brothers Greg Schvey, CEO and Jeff Schvey, CTO founded the company.
 ***
 *How did the idea for the company (or project) come about?*
 
-The founders of Axoni founded TradeBlock, a platform that provides trading tools and data analytics for public blockchain assets.  Axoni was launched to bring blockchain technology to private users in the global capital markets.
+The founders of Axoni founded TradeBlock, a platform that provides trading tools and data analytics for public blockchain assets.  Axoni was launched to bring blockchain technology to private users in the global capital markets space.
 ***
 *How is the company funded? How much funding have they received?*
 
-The company is funded through private investment.  Current total funding of $59.8MM.
+The company is funded through private investment.  Current total funding of $59.8 million.
 ***
 ## Business Activities:
 ***
 *What specific financial problem is the company or project trying to solve?*
 
-The company is trying to increase the efficiency and accuracy of trade settlements and reconciliation of trade activity between counterparties.  Currently, Axoni is partnered with the OCC to replace their existing infrastructure with distributed ledger technology.
+The company is trying to increase the efficiency and accuracy of trade settlements and reconciliation of trade activity between financial counterparties.  Currently, Axoni is partnered with the OCC to replace their existing infrastructure with distributed ledger technology.
 ***
 *Who is the company's intended customer?  Is there any information about the market size of this set of customers?*
 
-Axoni's intended customer base consists solely of financial service firms. Three of the top 5 largest financial services firms in the US are customers as well as direct investors in the company; JPMorgan, Wells Fargo and Citigroup.  These companies have total assets ranging from $1.63 trillion to $2.82 trillion.  Other customers include Goldman Sachs, DTCC, OCC among others.     
+Axoni's intended customer base consists mainly of financial service firms. Three of the top 5 largest financial services firms in the US are customers as well as direct investors in the company; JPMorgan, Wells Fargo and Citigroup.  These companies have total assets ranging from $1.63 trillion to $2.82 trillion.  Other customers include Goldman Sachs, DTCC, OCC, among others.     
 ***
 *What solution does this company offer that their competitors do not or cannot offer?*
 
@@ -44,11 +44,11 @@ Axoni develops distributed ledger technology for private institutions using thei
 ***
 *What domain of the financial industry is the company in?*
 
-The main domain of the financial industry this company resides in is Capital Markets trade clearing and settlements.
+The main domain of the financial industry this company resides in is Capital Markets, more specifically trade settlements and data sharing.
 ***
 *What have been the major trends and innovations of this domain over the last 5-10 years?*
 
-The interesting thing about this company is that there has been almost no innovation within this area for the last 5-10 years.  The majority of financial services firms are still manually reconciling with eachother using emails, excel spreadsheets and phone calls.
+The interesting thing about this domain is that while there has been progress made, the industry has not kept up with technological changes in other area of finance over the last 5-10 years.  The majority of financial services firms are still manually reconciling with eachother using emails, excel spreadsheets and phone calls.
 ***
 *What are the other major companies in this domain?*
 
@@ -85,7 +85,7 @@ Axoni already has the technology to write applications on top of their AxCore di
 ***
 *Why are these technologies appropriate for your solution?*
 
-A programming language that can write smart contract applications is appropriate beccause you need the infrastructure to build these smart contracts.
+A programming language that can write smart contract applications is appropriate because you need the infrastructure to build these smart contracts.
 ***
 ```
 Website References:
